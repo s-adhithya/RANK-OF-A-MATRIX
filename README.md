@@ -5,8 +5,8 @@ To write a python program to find the rank of a matrix
 1. 	Hardware – PCs
 2. 	Anaconda – Python 3.7 Installation / Moodle-Code Runner
 ## Algorithm:
-### Step 1: I
-mport numpy as np
+### Step 1: 
+Import numpy as np
 ### Step 2: 
 Assign in np.array() in rank of matrix
 
